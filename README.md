@@ -2,9 +2,9 @@
 
 # Atividade 1 de Computação Gráfica e Processamento Digital de Imagens
 
-Atenção
+## Observações
 
-- Atualizar as string inputFilePath e outputFilePath com o caminho da imagem a ser utilizada
+- Atualizar as string pathToInputFile e pathToOutputFile com o caminho da imagem a ser utilizada
 
 Feito em dupla
 Rafael de Araújo Paim | 201551321181
